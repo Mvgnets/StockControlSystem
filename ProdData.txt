@@ -1,0 +1,22 @@
+StockCode,Description,UnitPrice
+001,Coke,1.2
+002,Fanta Lemon,1.3
+003,7up,1.6
+004,Sprite,1.5
+005,R Whites Lemonade,1.4
+006,Orangina,1.3
+007,Fanta Orange,1.4
+008,Coke Zero,1.6
+009,Coke Cherry,1.4
+010,Coke Vanilla,1.3
+011,Fanta Fruit Twist,1.3
+012,Fanta Orange Zero,1.6
+013,Dr Pepper,1.9
+014,Dr Pepper Zero,1.7
+015,Ginger Beer,1.6
+016,Dandelion and Burdock,1.3
+017,Lemon Iced Tea,1.4
+018,Sparkling Water,1.5
+019,Still Water,1.4
+020,Orange Juice,1.8
+,,
